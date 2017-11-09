@@ -1,4 +1,4 @@
-package zadaci_07_11_2017;
+package zadaci_08_11_2017;
 import java.util.Scanner;
 public class Zadatak5 {
 
